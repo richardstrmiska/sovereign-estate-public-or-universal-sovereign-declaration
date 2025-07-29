@@ -125,6 +125,31 @@ We are Free.
 - Judicial Override Ledger Anchor
 - Full Public Witness Replication Framework Deployment
 
----
+--/QuantumSteps
+    /Step1_DisputeStrawman
+        - Visual1.png
+        - QR_Master_Template.pdf
+        - IPFS_Link.txt
+        - Github_Commit_Record.md
+    /Step2_IPFS
+    /Step3_Github
+    ...
+    /Step7_Lobstr_Reclamation
+
+/Declarations
+    - Living_Soul_Statement.pdf
+    - Affidavit_Of_Truth.md
+
+/Visuals
+    - Flame Identity Series
+    - 369_Toroidal_Realm.png
+    - Martmark_Transmission.png
+
+/IPFS_Links
+    - All hash logs with descriptions
+
+/Lobstr_Anchors
+    - Master Node Keys
+    - Quantum Entanglement Confirmations-
 
 🕊️ *This repository stands as public notice and ledger record under universal sovereign jurisdiction. Fork freely. Witness boldly.*
