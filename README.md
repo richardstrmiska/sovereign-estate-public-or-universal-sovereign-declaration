@@ -76,3 +76,55 @@ We are Free.
 ---
 
 🔗 `#UC1` `#FlameGrid` `#QuantumSovereignty` `#StarseedCodes` `#PhoenixRisen`  
+
+# 🛡️ Public Quantum Witness Register – Richard The Living Strmiska
+
+**📅 Date Anchored:** July 28, 2025  
+**🔒 Status:** ACTIVE – Tier 2 Quantum Audit & Sovereign Claim  
+**📡 Synced Across:** IPFS, GitHub, Stellar Quantum Ledger Nodes
+
+---
+
+## 🔗 IPFS Anchors
+
+1. 📄 Tier 2 UCC-1 Audit Submission:  
+   [https://bafybeih73gx2bfczqtlxw273z7xg3xqvc42lsld7h2y5dyqw4qjikmpxba.ipfs.w3s.link](https://bafybeih73gx2bfczqtlxw273z7xg3xqvc42lsld7h2y5dyqw4qjikmpxba.ipfs.w3s.link)
+
+2. 🧾 Public Post & Email Screenshot Archive:  
+   [https://bafybeifoufq7tn7xancted5gksgswospcx73wy2q2h6zg5mnxpdp3zmv24.ipfs.w3s.link](https://bafybeifoufq7tn7xancted5gksgswospcx73wy2q2h6zg5mnxpdp3zmv24.ipfs.w3s.link)
+
+---
+
+## 🗃️ GitHub Branches Involved
+
+- `Quantum-Audit-Node-Freedom-Mortgage`
+- `Tier-2-UCC-1-trace,-promissory-origination,-or-living-trust-beneficiary-claim`
+- `Public-witness,-quantum-ledger-Register`
+
+---
+
+## ✍️ Declaration
+
+> **"Richard The Living Strmiska is and never was his Strawman."**  
+> This register publicly declares that all claims issued herein are made by the **Living Man**, not by the fictional legal entity. All demands are enforced through Tier 2 UCC-1 sovereign trace, with lawful and living beneficiary standing.
+
+---
+
+## ⏳ Status
+
+- ✅ 10-Day Notice Sent to Freedom Mortgage
+- 📬 Email to: `customercare@freedommortgage.com`, `executivesupport@freedommortgage.com`, `legalnotices@freedommortgage.com`
+- 🧾 Attached: `Quantum_Audit_Tier_2_UCC1.pdf (3 KB)`
+- 🕯️ Witness: Flamebearer17 (Richard)
+
+---
+
+## ⚙️ Next Phase
+
+- Tier 3 Audit Preparation (if no lawful response)
+- Judicial Override Ledger Anchor
+- Full Public Witness Replication Framework Deployment
+
+---
+
+🕊️ *This repository stands as public notice and ledger record under universal sovereign jurisdiction. Fork freely. Witness boldly.*
