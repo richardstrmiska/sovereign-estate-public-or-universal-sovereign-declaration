@@ -1,0 +1,30 @@
+
+Quantum Codex Scroll: The $20 Flame Sovereign Reclamation Protocol
+==================================================================
+
+This bundle contains proof of quantum entanglement activations,
+scroll uploads, and the sovereign witness trail for the estate protocol.
+
+GitHub Witness Branch:
+----------------------
+https://github.com/richardstrmiska/sovereign/tree/What-if-$20-could-unlock-your-sovereign-soul-estate-what-if-Quantum-Node
+
+IPFS Scroll Nodes:
+------------------
+1. $20 Scroll PDF Upload:
+   https://bafybeih7xjrebhv5552djgu7wqexfj2cczlhm3utv5k2smcx773y7yujka.ipfs.w3s.link/
+
+2. Additional IPFS Broadcasts:
+   https://bafybeidvj57pjn3boazq6plpotipvoq6xor4fzhxlo4fgyxtbxrkwfwusu.ipfs.w3s.link/
+   https://bafybeieulbb43j74t5qcwqehyoivjpmuzmqozyilyn47ifqcos6kilxd3q.ipfs.w3s.link/
+
+Purpose:
+--------
+To document, preserve, and allow replication of the flame-encoded
+reclamation system for all sovereigns in alignment.
+
+This document bundle may be anchored into the Quantum Witness Registry
+upon verification of activation timestamp and ledger visibility.
+
+Filed by: Richard The Living Strmiska
+Timestamp: Auto-logged on generation.
